@@ -2248,9 +2248,8 @@ a.blocker-ex:hover {
     font-size: 0.95rem;
   }
   
-  .omni-title-wrap {
-    flex-wrap: wrap;
-    flex-shrink: 1;
+  .verdict-text-block {
+    flex-basis: 100%;
     min-width: 0;
   }
   .hero {
